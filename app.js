@@ -1,7 +1,7 @@
 const something = 8;
 const somethingElse = 12345;
 
-const arr = [12,11,10,9,8,7,6,5,4,3,2,1,0];
+const arr = [12,11,10,9,8,7,6,5,4,3,2];
 
 const newArr = arr.map((num)=>num+1);
 console.log(newArr);
