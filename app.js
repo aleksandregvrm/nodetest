@@ -7,3 +7,5 @@ const newArr = arr.map((num)=>num+1);
 console.log(newArr);
 
 const anotherNewArr = Array.from({ length: 8 }, (_, index) => index);
+
+const number = 5;
